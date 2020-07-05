@@ -1,4 +1,4 @@
-﻿Öncelikle projeden bahsetmek isterim, sistemde bilgisi gömülü olan bir adet "admin" bulunmaktadır. Adminin username'i "admin" password ise "12345" şeklindedir.Bu bilgileri kullanarak sisteme giriş yapabilir ve sonrasında adres kayıdı ekleme,silme ve güncelleme işlemlerini yapabilirsiniz.
+Öncelikle projeden bahsetmek isterim, sistemde bilgisi gömülü olan bir adet "admin" bulunmaktadır. Adminin username'i "admin" password ise "12345" şeklindedir.Bu bilgileri kullanarak sisteme giriş yapabilir ve sonrasında adres kayıdı ekleme,silme ve güncelleme işlemlerini yapabilirsiniz.
 
 Projenin kodlanması ve geliştirilmesi kısmında ise JSF,JPA,HTML,CSS ve MAVEN kullanılmıştır. Geliştirme ortamları olarak ise NetBeans ve Apache Tomcat EE kullanılmıştır.Öncelikle IDE konusunda çok kararsız kaldım. Netbeans ve Eclipse IDE arasında kaldım diyebilirim.NetBeans'te hazır şablonlar sayesinde daha hızlı bitirebilmek sebebiyle tercihim NetBeans oldu.
 
@@ -23,7 +23,7 @@ Finish..
 --> NetBeans projemizde yer alan Common Klasöründen--> Create Table.java yı açıp getConnection classında bulanan getConnetcion bağlantısını tıklayın.--> CreateTable.java dosyasını run edin(sağ tık run file)-->vendor-->index.jsp dosyasını run edin.
 --> Admin tablosundan kendi kullanıcı adı ve parolanızı oluşturup kullanmaya başlayabilirsiniz."
 
--->   Kurduğunuz Mysql'de "x" isminde bir bağlantı oluşturmanız gerekiyor.Tabiki bu adı değiştirip kendi yarattığınız bir bağlantı adresini verebilirsiniz. Ayrıca sizin Mysql kurulumu sırasında belirlediğiniz kullanıcı adı ve şifre de farklı olacaktır. kendi kullanıcı adı ve şifrelerinizi yazınız;
+-->   Kurduğunuz Mysql'de "x" isminde bir bağlantı oluşturmanız gerekiyor.Tabiki bu adı değiştirip kendi ürettiğiniz bir bağlantı adresini verebilirsiniz. Ayrıca sizin Mysql kurulumu sırasında belirlediğiniz kullanıcı adı ve şifre de farklı olacaktır. kendi kullanıcı adı ve şifrelerinizi yazınız;
 
 Eclipse Ide ile açmak isterseniz
 
